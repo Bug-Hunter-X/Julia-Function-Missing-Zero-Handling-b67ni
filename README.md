@@ -1,0 +1,1 @@
+This repository contains a simple Julia function with a common error: missing handling for the zero case. The `myfunction` calculates the square of a number but does not handle zero, leading to unexpected output. The solution shows how to fix this by adding a specific check for x == 0.
